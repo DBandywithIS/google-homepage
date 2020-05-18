@@ -1,0 +1,41 @@
+.box1 {
+
+}
+.box1-x {
+
+}
+.box1-2 {
+    background-color: transparent;
+    color: rgba(0, 0, 0, .87);
+    word-wrap: break-word;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: 5px;
+    height: 34px;
+    font-size: 16px;
+}
+.searchbox {
+    background-color: transparent;
+    color: rgba(0, 0, 0, .87);
+    word-wrap: break-word;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: 5px;
+    height: 34px;
+    font-size: 16px;
+}
+#content {
+    display: flex;   
+}
+#logo {
+    align-content: center;
+    float: center;
+    margin: auto;
+}
+#google-logo {
+    padding-top: 109px; 
+    width: 272px;
+    height: 92px;
+}
